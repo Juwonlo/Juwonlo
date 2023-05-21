@@ -4,7 +4,8 @@ I'm a software engineer with a focus on iOS and Android app development using Fl
 
 
 - 👯 I’m looking to collaborate on open source Flutter project.
-- 📫 How to reach me: Twitter,
+- 💬 Ask me about  Flutter | JavaScript
+- 📫 How to reach me: [Twitter](https://twitter.com/AJuwonlo_04),[Linkedin](linkedin.com/in/owoeye-oluwajuwonlo-52708b234),[GitHub](https://github.com/Juwonlo)
 - 😄 Pronouns: He/Him
 
 <!-- **Juwonlo/Juwonlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
