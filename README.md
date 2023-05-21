@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Juwonlo/Juwonlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with a focus on iOS and Android app development using Flutter. Strong advocate for clean code, automated testing, and continuous integration, scalable architectures, and user-centric design. Dedicated to delivering high-quality mobile experiences. Currently diving deep into JavaScript and React to become a Full-stack Developer.
+
+
+- 👯 I’m looking to collaborate on open source Flutter project.
+- 📫 How to reach me: Twitter,
+- 😄 Pronouns: He/Him
+
+<!-- **Juwonlo/Juwonlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+--!>
