@@ -5,6 +5,7 @@ I'm a software engineer with a focus on iOS and Android app development using Fl
 
 - 👯 I’m looking to collaborate on open source Flutter project.
 - 💬 Ask me about  Flutter | JavaScript
+- 🤔 I’m looking for help with JavaScript
 - 📫 How to reach me: [Twitter](https://twitter.com/AJuwonlo_04),[Linkedin](linkedin.com/in/owoeye-oluwajuwonlo-52708b234),[GitHub](https://github.com/Juwonlo)
 - 😄 Pronouns: He/Him
 
