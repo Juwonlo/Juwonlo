@@ -6,7 +6,7 @@ I'm a software engineer with a focus on iOS and Android app development using Fl
 - 👯 I’m looking to collaborate on open source Flutter project.
 - 💬 Ask me about  Flutter | JavaScript
 - 🤔 I’m looking for help with JavaScript
-- 📫 How to reach me: [Twitter](https://twitter.com/AJuwonlo_04),[Linkedin](linkedin.com/in/owoeye-oluwajuwonlo-52708b234),[GitHub](https://github.com/Juwonlo)
+- 📫 How to reach me: [Twitter](https://twitter.com/AJuwonlo_04),[Linkedin](https://www.linkedin.com/in/owoeye-oluwajuwonlo-52708b234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BW1MgsWhJR%2BirSEFPPiLAhA%3D%3D),[GitHub](https://github.com/Juwonlo)
 - 😄 Pronouns: He/Him
 
 <!-- **Juwonlo/Juwonlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
