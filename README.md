@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer with a focus on iOS and Android app development using Flutter. Strong advocate for clean code, automated testing, and continuous integration, scalable architectures, and user-centric design. Dedicated to delivering high-quality mobile experiences. Currently diving deep into JavaScript and React to become a Full-stack Developer.
+I'm a software engineer with a focus on Android and iOS app development using Flutter. Strong advocate for clean code, automated testing, and continuous integration, scalable architectures, and user-centric design. Dedicated to delivering high-quality mobile experiences. Currently diving deep into JavaScript and React to become a Full-stack Developer.
 
 
 - 👯 I’m looking to collaborate on open source Flutter project.
