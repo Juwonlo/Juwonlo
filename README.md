@@ -9,7 +9,7 @@ I'm a software engineer with a focus on Android and iOS app development using Fl
 - 😄 Pronouns: He/Him
 
  ## 📫 How to reach me
- I'm interested in collaborating on Flutter apps. You can reach me via [Email](mailto:owoeyejuju@gmail.com), [Linkedin](https://www.linkedin.com/in/owoeye-oluwajuwonlo-52708b234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BW1MgsWhJR%2BirSEFPPiLAhA%3D%3D), [Twitter](https://twitter.com/AJuwonlo_04). Let's connect, discuss and build potential projects.
+ I'm interested in collaborating on Flutter apps. You can reach me via [Email](mailto:owoeyejuju@gmail.com), [Linkedin](https://www.linkedin.com/in/owoeye-oluwajuwonlo-52708b234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BW1MgsWhJR%2BirSEFPPiLAhA%3D%3D), [Twitter](https://twitter.com/Dev_Ajuwonlo). Let's connect, discuss and build potential projects.
 
 <!-- **Juwonlo/Juwonlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
